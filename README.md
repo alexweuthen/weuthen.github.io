@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my page! I am just starting to set it up, but first things to set up here will be my CV + personal interests.
+
+Currently PhD Student at the Department of Neuropsychology, OVGU Magdeburg, Germany.
+
+Mostly using multimodal neuroimaging (MRI/EEG) to capture cognitive processes, but also highly interested in peripheral messures interacting with cognitive and affective processes (respiration, heart beat).
+
 <!--
 **weuthen/weuthen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
